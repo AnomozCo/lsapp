@@ -52,7 +52,7 @@ return [
     |
     */
 
-    'url' => env('APP_URL', 'http://localhost'),
+    'url' => env('APP_URL', 'https://projects.anomoz.com/laravel-v2'),
 
     'asset_url' => env('ASSET_URL', null),
 
@@ -119,7 +119,7 @@ return [
     |
     */
 
-    'key' => env('APP_KEY'),
+    'key' => env('APP_KEY','t5pmtwe0vfhy4tmjrqalhh21fyhg9n2d'),
 
     'cipher' => 'AES-256-CBC',
 
